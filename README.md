@@ -1,2 +1,2 @@
 # mistral.java
-Inference for mistral.ai models in pure Java.
+Inference for [Mistral AI](https://mistral.ai) models in pure Java.
